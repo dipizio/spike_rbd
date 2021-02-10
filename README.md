@@ -15,6 +15,6 @@ Protein-Protein Interactions at a glance: protocols for the visualization of bio
 Agamennone M., Nicoli A., Bayer S., Weber S., Borro L., Gupta S., Fantacuzzi M., Di Pizio A.
   
 ### Download  
-´´´  
+```
 git clone https://github.com/dipizio/PPI_video  
-´´´  
+```  
