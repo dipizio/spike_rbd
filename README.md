@@ -1,6 +1,6 @@
 # Hydrogen bond network between the spike protein RBD domain and the ACE2 receptor 
 
-Credits. Alessandro Nicoli - Leibniz-Institute for Food Systems Biology at the Technical University of Munich
+Credits. Alessandro Nicoli - Leibniz-Institute for Food Systems Biology at the Technical University of Munich  
 https://twitter.com/ANicoli90  
 https://scholar.google.com/citations?user=zvjMyfsAAAAJ&hl=it  
 
