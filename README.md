@@ -2,6 +2,6 @@
 
 
 
-## Ref.   
+### Ref.   
 Title: Protein-Protein Interactions at a glance: protocols for the visualization of biomolecular interactions  
-Authors: Mariangela Agamennone, Alessandro Nicoli, Sebastian Bayer, Verena Weber, Luca Borro, Shailendra Gupta, Marialuigia Fantacuzzi, Antonella Di Pizio  
+Authors: Agamennone M., Nicoli A., Bayer S., Weber S., Borro L., Gupta S., Fantacuzzi M., Di Pizio A.  
