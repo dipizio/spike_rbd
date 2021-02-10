@@ -7,7 +7,7 @@ RBD and ACE2 are represented as blue and green cartoons, respectively. Residues 
 link https://www.youtube.com/watch?v=vfWL_WDeN34&feature=youtu.be
 </br>
 ### Credits. Alessandro Nicoli</br>
-Leibniz-Institute for Food Systems Biology at the Technical University of Munich (https://www.leibniz-lsb.de/)</br>  
+Leibniz-Institute for Food Systems Biology at the Technical University of Munich (https://www.leibniz-lsb.de/)  
 https://twitter.com/ANicoli90</br>
 https://scholar.google.com/citations?user=zvjMyfsAAAAJ&hl=it</br>
 </br> 
