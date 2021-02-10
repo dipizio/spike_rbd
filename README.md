@@ -7,7 +7,7 @@ RBD and ACE2 are represented as blue and green cartoons, respectively. Residues 
 ![Watch video](https://github.com/dipizio/PPI_video/blob/master/PPI_RBD_ACE2_Hydrogen_bond_network.mp4)
 
 ### Credits. Alessandro Nicoli  
-Leibniz-Institute for Food Systems Biology at the Technical University of Munich (https://www.leibniz-lsb.de/)
+Leibniz-Institute for Food Systems Biology at the Technical University of Munich (https://www.leibniz-lsb.de/)  
 https://twitter.com/ANicoli90  
 https://scholar.google.com/citations?user=zvjMyfsAAAAJ&hl=it  
 
