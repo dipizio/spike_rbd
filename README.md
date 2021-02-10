@@ -10,7 +10,7 @@ RBD and ACE2 are represented as blue and green cartoons, respectively. Residues 
 Leibniz-Institute for Food Systems Biology at the Technical University of Munich (https://www.leibniz-lsb.de/)  
 https://twitter.com/ANicoli90  
 https://scholar.google.com/citations?user=zvjMyfsAAAAJ&hl=it  
-
+  
 ### Ref.   
 Protein-Protein Interactions at a glance: protocols for the visualization of biomolecular interactions  
 Agamennone M., Nicoli A., Bayer S., Weber S., Borro L., Gupta S., Fantacuzzi M., Di Pizio A.
