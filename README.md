@@ -1,7 +1,15 @@
 # Dynamic H-bond network between the spike protein RBD domain and the ACE2 receptor
   
-[![Video](https://img.youtube.com/vi/vfWL_WDeN34/hqdefault.jpg)](http://www.youtube.com/watch?v=vfWL_WDeN34)
 
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=vfWL_WDeN34">
+     <img 
+      src="https://img.youtube.com/vi/vfWL_WDeN34/0.jpg" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>
+    
 
 https://www.youtube.com/watch?v=vfWL_WDeN34
 
