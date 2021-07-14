@@ -9,7 +9,7 @@ RBD and ACE2 are represented as blue and green cartoons, respectively. Residues 
 </br>
 MD trajectory from the Amaro Lab (https://amarolab.ucsd.edu/covid19.php).</br>
 
-
+ 
 ### Download the video
 ```
 git clone https://github.com/dipizio/spike_rbd.git  
